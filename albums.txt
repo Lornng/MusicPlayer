@@ -1,0 +1,41 @@
+4
+Ed Sheeran
+Divide
+images/divide.jpg
+3
+Perfect
+sounds/Perfect.wav
+Happier
+sounds/Happier.wav
+Shape of you
+sounds/Shape_of_you.wav
+Charlie Puth
+Nine Track Mind
+images/Nine_Track_Mind.jpg
+3
+One Call Away
+sounds/one_call_away.wav
+See You Again
+sounds/see_you_again.wav
+We Don't Talk Anymore
+sounds/we_dont_talk_anymore.wav
+Justin Bieber
+Purpose
+images/Purpose.jpg
+3
+Love Yourself
+sounds/love_yourself.wav
+Sorry 
+sounds/sorry.wav
+Company
+sounds/company.wav
+Maroon 5
+V
+images/V.jpg
+3
+Animals
+sounds/animals.wav
+Sugar
+sounds/sugar.wav
+Maps
+sounds/maps.wav
