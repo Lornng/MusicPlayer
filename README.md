@@ -12,3 +12,4 @@ gosu is used to run the visualisation in ruby
 
 # Project ideas
 To create a music player, have the buttons (stop-will quit the album, pause, resume, next)
+Then create a folder, with name "sounds" then put the sound tract with ".wav" format 
