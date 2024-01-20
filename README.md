@@ -1,7 +1,7 @@
 # MusicPlayer
 Project of Intro to Programming
 
-This project was coded with ruby programmin
+This project was coded with ruby programming
 
 # Project requirements:
 
